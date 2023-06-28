@@ -11,8 +11,7 @@
             </ul>
         </li>
         
-        <li class="divider text-center" data-text="table and forms">Table and forms</li>
-        <li><a href="#"><i class='bx bx-table icon'></i> Tables</a></li>
+        <li class="divider text-center" data-text="table and forms"></li>
         <li>
             <a href="#"><i class='bx bxs-notepad icon'></i> Forms <i class='bx bx-chevron-right icon-right'></i></a>
             <ul class="side-dropdown">
